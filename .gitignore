@@ -29,8 +29,6 @@ vignettes/*.pdf
 .httr-oauth
 
 .Rproj.user
-.Rhistory
-.RData
 .Ruserdata
 
 /.quarto/
@@ -46,9 +44,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-
-# pkgdown site
-docs/
 
 # translation temp files
 po/*~
